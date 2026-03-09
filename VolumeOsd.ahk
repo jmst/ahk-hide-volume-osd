@@ -1,3 +1,4 @@
+#Requires AutoHotkey v2.0.12
 class VolumeOsd
 {
     Exists()
