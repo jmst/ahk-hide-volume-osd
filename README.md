@@ -1,3 +1,5 @@
+Minimum changes to work on v2 (feature incomplete, only hide/show/lib).
+
 # AutoHotkey Hide Volume OSD
 
 This is an AutoHotkey script you can use to hide (and restore) the Windows volume OSD (on-screen display).
